@@ -1,3 +1,5 @@
+#A Python script to generate a random password of 8 characters. Each time the program is run, a new password will be generated randomly
+
 import random
 import string
 
